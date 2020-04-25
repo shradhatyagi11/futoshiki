@@ -18,4 +18,3 @@
 ## Adding new Models or Grid Sizes: 
   To add new models make an entry in models.json, code will randomly pick any model of chosen grid size and will present it     end user.
 
-
